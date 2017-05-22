@@ -59,9 +59,9 @@
 
 技术架构：React+React-Router+Redux+Less+Webpack+ES
 
-Demo地址：[http://damonare.cn/memos](http://damonare.cn/memos) 
+Demo地址：[http://damonare.cn/memos](http://damonare.cn/memos)
 
-Github托管地址：[https://github.com/damonare/memos](https://github.com/damonare/memos) 
+Github托管地址：[https://github.com/damonare/memos](https://github.com/damonare/memos)
 
 **滴答**(2016.09-2016.11)
 
@@ -99,6 +99,16 @@ Demo地址：[http://wenda.pingwest.com/](http://wenda.pingwest.com/)
 
 地址：[https://github.com/damonare/node-sample](https://github.com/damonare/node-sample)
 
+**Ajax库**
+
+技术架构:javascript
+地址:[https://github.com/damonare/ajax](https://github.com/damonare/ajax)
+说明:平时开发发现使用jQuery最多的场景是使用其封装的Ajax，但实际上就额外加大了负担，这种情况下就没有必要使用jQuery，因此自行封装了一个简单的Ajax库。
+
+**Sorts**
+
+一个对于排序算法的搜集整理，现在还熟悉的也就只剩下快速排序和冒泡排序了。算是个人喜欢总结收集整理的一个体现。
+地址:[https://github.com/damonare/Sorts](https://github.com/damonare/Sorts)
 ----
 
 #### 博客信息
@@ -127,4 +137,3 @@ GitHub地址：[https://github.com/damonare](https://github.com/damonare)
 ----
 
 **感谢您花时间阅读我的简历，期待能有机会和您共事。**
-
