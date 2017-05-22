@@ -15,8 +15,8 @@
 
 - 谭继臻/男/1996.04.21
 - 本科/西安电子科技大学经济与管理学院/2018届毕业生
-- 博客: http://damonare.cn
-- github: http://github.com/damonare
+- 博客: [http://damonare.cn]([http://damonare.cn)
+- github: [http://github.com/damonare](http://github.com/damonare)
 - 学院相关课程：数据结构，数据库，计算机网络，C语言
 - 期望职位：Web前端开发工程师(实习)
 
