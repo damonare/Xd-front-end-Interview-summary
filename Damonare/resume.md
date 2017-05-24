@@ -102,12 +102,15 @@ Demo地址：[http://wenda.pingwest.com/](http://wenda.pingwest.com/)
 **Ajax库**
 
 技术架构:javascript
+
 地址:[https://github.com/damonare/ajax](https://github.com/damonare/ajax)
+
 说明:平时开发发现使用jQuery最多的场景是使用其封装的Ajax，但实际上就额外加大了负担，这种情况下就没有必要使用jQuery，因此自行封装了一个简单的Ajax库。
 
 **Sorts**
 
 一个对于排序算法的搜集整理，现在还熟悉的也就只剩下快速排序和冒泡排序了。算是个人喜欢总结收集整理的一个体现。
+
 地址:[https://github.com/damonare/Sorts](https://github.com/damonare/Sorts)
 
 ----
