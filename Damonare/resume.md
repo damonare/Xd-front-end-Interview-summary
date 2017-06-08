@@ -6,8 +6,10 @@
 
 #### 联系方式
 
-- 手机: 15029053784
+- 手机: 150****3784
 - 邮箱: jztan1996@gmail.com
+- 微信:
+![微信](http://damonare.cn/index/img/weixin.png)
 
 ----
 
