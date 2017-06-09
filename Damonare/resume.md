@@ -8,7 +8,7 @@
 
 - 手机: 150****3784
 - 邮箱: jztan1996@gmail.com
-- 微信: tjz19960421
+- 微信: tjz19960421 
 ![微信](http://damonare.cn/index/img/weixin.png)
 
 ----
