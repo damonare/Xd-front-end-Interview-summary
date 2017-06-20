@@ -34,6 +34,7 @@
 - 熟悉Github flow,能较好的使用git进行团队协作,了解Svn；
 - 熟悉Gulp,Webpack前端构建工具的使用；
 - 了解Node,SQL,初步使用过数据库MySQL,mongodb;
+- 了解算法,数据结构,网络协议；
 
 ----
 
